@@ -1,0 +1,6 @@
+torch
+numpy
+emotiefflib==1.1.1
+onnx>=1.16.0
+onnxruntime>=1.18.0
+protobuf>=3.20,<3.21
